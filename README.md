@@ -8,8 +8,8 @@ Esse repositório tem como propósito registrar o meu conhecimento no decorrer d
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1   | 2   | 3 <br> <a src="">- Revisão JS</a>  | 4   | 5   | 6   | 7   |
-| 8   | 9  <br> <a src="">- Revisão JS</a> | 10  | 11  | 12  | 13  | 14  |
+| 1   | 2   | 3 <br> <a href="https://github.com/joserandu/Quinto-Semestre/blob/main/Desenvolvimento%20Web%202/Aula1_09.03/Revis%C3%A3o%20da%20Linguagem%20JavaScript.md">- Revisão JS</a> (28 min) ✅ | 4   | 5   | 6   | 7   |
+| 8   | 9  <br> <a href="https://github.com/joserandu/Quinto-Semestre/blob/main/Desenvolvimento%20Web%202/Aula1_09.03/Revis%C3%A3o%20da%20Linguagem%20JavaScript.md">- Revisão JS</a> (28 min) | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
 
@@ -19,7 +19,7 @@ Esse repositório tem como propósito registrar o meu conhecimento no decorrer d
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1   | 2  <br> <a src="">- Revisão JS</a> | 3   | 4   | 5   | 6   | 7   |
+| 1   | 2  <br><br> <a href="https://github.com/joserandu/Quinto-Semestre/blob/main/Desenvolvimento%20Web%202/Aula1_09.03/Revis%C3%A3o%20da%20Linguagem%20JavaScript.md">- Revisão JS</a> (28 min) | 3   | 4   | 5   | 6   | 7   |
 | 8   | 9   | 10  | 11  | 12  | 13  | 14  |
 | 15  | 16  | 17  | 18  | 19  | 20  | 21  |
 | 22  | 23  | 24  | 25  | 26  | 27  | 28  |
@@ -83,5 +83,6 @@ Se você quiser, eu posso:
 * 🧠 transformar isso num **planner acadêmico** (provas, entregas, estudos)
 
 Só me dizer como você pretende usar no dia a dia 😉
+
 
 
