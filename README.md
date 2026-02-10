@@ -1,4 +1,4 @@
-# Quarto Semestre | Bacharelado em Sistemas de Informação - IFSP :green_square: :red_circle:
+# Quinto Semestre | Bacharelado em Sistemas de Informação - IFSP :green_square: :red_circle:
 
 Esse repositório tem como propósito registrar o meu conhecimento no decorrer do meu quinto semestre do curso de Bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
 
@@ -83,4 +83,5 @@ Se você quiser, eu posso:
 * 🧠 transformar isso num **planner acadêmico** (provas, entregas, estudos)
 
 Só me dizer como você pretende usar no dia a dia 😉
+
 
