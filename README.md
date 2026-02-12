@@ -31,7 +31,7 @@ Esse repositório tem como propósito registrar o meu conhecimento no decorrer d
 
 | Dom | Seg | Ter | Qua | Qui | Sex | Sáb |
 | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     | 1   | 2   | 3 <br> <a src="">- Revisão JS</a>  | 4   |
+|     |     |     | 1   | 2   | 3   | 4   |
 | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
 | 19  | 20  | 21  | 22  | 23  | 24  | 25  |
@@ -83,6 +83,7 @@ Se você quiser, eu posso:
 * 🧠 transformar isso num **planner acadêmico** (provas, entregas, estudos)
 
 Só me dizer como você pretende usar no dia a dia 😉
+
 
 
 
