@@ -2,6 +2,9 @@
 
 Esse repositório tem como propósito registrar o meu conhecimento no decorrer do meu quinto semestre do curso de Bacharelado em Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
 
+## Atividades
+- Análise de complexidade de algum código que a gente tenha feito.
+
 ## Calendário 2026
 
 ### Fevereiro
@@ -83,6 +86,7 @@ Se você quiser, eu posso:
 * 🧠 transformar isso num **planner acadêmico** (provas, entregas, estudos)
 
 Só me dizer como você pretende usar no dia a dia 😉
+
 
 
 
