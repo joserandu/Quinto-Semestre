@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Alterar Fonte</title>
+</head>
+
+<body>
+
+    <!-- a -->
+    <p id="textoNovaFonte">a) Função Declarada (sintaxe ES5): Altere o tipo de fonte (font-family) de um texto.</p>
+
+    <button onclick="alterarFontFamily()">Alterar Fonte</button>
+
+    <hr>
+    <!-- b -->
+    <p id="textoAumentado">b) Função Anônima (sintaxe ES5): Altere o tamanho da fonte de um texto.</p>
+
+    <button id="botaoAumentarTexto">Aumentar Texto</button>
+
+    <hr>
+    <!-- c -->
+    <p id="textoAumentado2">c) Função Anônima (sintaxe ES6, com arrow function): Mesma funcionalidade da questão anterior.</p>
+
+    <button id="botaoAumentarTexto2">Aumentar Texto</button>
+
+    <hr>
+    <!-- d -->
+    <p>d) Função Anônima (passada como parâmetro para outra função): Calcule o comprimento da
+    hipotenusa de um triângulo retângulo.</p>
+    <input type="number" placeholder="Informe o cateto 1:">
+    <input type="number" placeholder="Informe o cateto 2:">
+    <button type="button" id="calcularHipotenusa">Calcular Hipotenusa</button>
+    <div id="resultado"></div>    
+
+    <hr>
+    <!-- e -->
+    <p>e) Função Anônima e Dinâmica (passada como parâmetro para outra função): Mesma
+    funcionalidade da questão anterior.</p>
+    <input type="number" placeholder="Informe o cateto 1:">
+    <input type="number" placeholder="Informe o cateto 2:">
+    <button type="button" id="calcularHipotenusaAD">Calcular Hipotenusa</button>
+    <div id="resultadoAD"></div>    
+    
+
+    <hr>
+    <!-- f -->
+    <p>f) Função Autoinvocada (sintaxe ES5): Calcule a raiz de um número com base em um radicando e
+    um índice.</p>
+    <input type="number" id="radicandoES5" placeholder="Radicando">
+    <input type="number" id="indiceES5" placeholder="Índice">
+    <button id="botaoRaizES5">Calcular Raiz ES5</button>
+    <div id="resultadoRaizES5"></div>
+
+    <hr>
+    <!-- g -->
+    <p>g) Função Autoinvocada (sintaxe ES6): Mesma funcionalidade da questão anterior.</p>
+    <input type="number" id="radicandoES6" placeholder="Radicando">
+    <input type="number" id="indiceES6" placeholder="Índice">
+    <button id="botaoRaizES6">Calcular Raiz ES6</button>
+    <div id="resultadoRaizES6"></div>
+    
+    <hr>
+    <!-- h -->
+    <p>
+    h) Retorno de Objetos (array indexado): Retorne a cotação de um valor em reais
+    para dólares e euros na mesma função.</p>
+    <input type="number" id="valorEmReais" placeholder="Digite o valor em reais...">
+    <button id="cotar">Cotar</button>
+    <div id="valorDolar"></div>
+    <div id="valorEuro"></div>
+
+    <hr>
+    <!-- i -->
+    <p>i) Retorno de Objetos (array associativo): Mesma funcionalidade da questão anterior.</p>
+
+    <input type="number" id="valorEmReaisObj" placeholder="Digite o valor em reais...">
+    <button id="cotarObj">Cotar</button>
+
+    <div id="valorDolarObj"></div>
+    <div id="valorEuroObj"></div>
+
+    <hr>
+    <!-- j -->
+    <p>j) Closures (função interna chamada dentro da função externa): A função externa deve definir o
+    texto “Quem canta “ e a função interna deve concatenar este texto com “seus males espanta.”
+    e mostrar o ditado completo em um alert.</p>
+    <button onclick="ditado()">Quem canta...</button>
+
+    <hr>
+    <!-- k -->
+    <p>Módulos: A aplicação deve ter os botões Maiúsculas e Minúsculas, sendo que cada botão deve
+    converter todas as letras de um mesmo texto e exibi-lo em um alert. Os textos devem ser
+    convertidos por duas funções exportáveis definidas em um módulo.</p>
+
+    <button id="botaoMaiusculas">Maiúsculas</button>
+    <button id="botaoMinusculas">Minúsculas</button>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
