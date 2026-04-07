@@ -79,13 +79,6 @@ Esse repositório tem como propósito registrar o meu conhecimento no decorrer d
 
 ---
 
-Se você quiser, eu posso:
-
-* ✨ **preencher um mês modelo** já com tópicos
-* 🎨 sugerir um **padrão visual fixo** (cores/emojis por disciplina)
-* 🧠 transformar isso num **planner acadêmico** (provas, entregas, estudos)
-
-Só me dizer como você pretende usar no dia a dia 😉
 
 
 
