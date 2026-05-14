@@ -70,56 +70,37 @@ void display() {
     // Mercúrio
     glPushMatrix();
     glColor3f(1.0, 0.858, 0.733);
-        glTranslatef(0.5, 0.0, 0.0);
+        glTranslatef(0.7, 0.0, 0.0);
         glutSolidSphere(0.05, 100, 100);
     // glPopMatrix();
 
     // Vênus    
     glPushMatrix();
     glColor3f(1.0, 0.549, 0.0);
-        glTranslatef(0.3, 0.0, 0.0);
+        glTranslatef(0.5, 0.0, 0.0);
         glutSolidSphere(0.12, 100, 100);
     // glPopMatrix();
 
     // Terra
     glPushMatrix();
     glColor3f(0.0, 0.0, 1.0);
-        glTranslatef(0.3, 0.0, 0.0);
+        glTranslatef(0.7, 0.0, 0.0);
         glutSolidSphere(0.1, 100, 100);
+
+    // Lua
+    glPushMatrix();
+    glColor3f(1.0, 1.0, 1.0);
+        glTranslatef(0.3, 0.0, 0.0);
+        glutSolidSphere(0.03, 100, 100);
+        
     // glPopMatrix();
 
     // Marte
     glPushMatrix();
     glColor3f(1.0, 0.0, 0.0);
-        glTranslatef(0.3, 0.0, 0.0);
+        glTranslatef(0.7, 0.0, 0.0);
         glutSolidSphere(0.08, 100, 100);
-
-    // Júpiter
-    glPushMatrix();
-    glColor3f(1.0, 0.858, 0.733);
-        glTranslatef(0.3, 0.0, 0.0);
-        glutSolidSphere(0.1, 100, 100);
-
-    // Saturno
-    glPushMatrix();
-    glColor3f(1.0, 0.549, 0.0);
-        glTranslatef(0.3, 0.0, 0.0);
-        glutSolidSphere(0.1, 100, 100);
-            
-
-    // Urano
-    glPushMatrix();
-    glColor3f(0.5f, 0.8f, 1.0f);
-        glTranslatef(0.3, 0.0, 0.0);
-        glutSolidSphere(0.1, 100, 100);
     
-    
-    // Netuno
-    glPushMatrix();
-    glColor3f(0.0, 0.0, 1.0);
-        glTranslatef(0.3, 0.0, 0.0);
-        glutSolidSphere(0.1, 100, 100);
-              
     glPopMatrix();
 
 
